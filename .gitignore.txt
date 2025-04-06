@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment
+.venv/
+.venv1/
+env/
+ENV/
+
+# IDE settings
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model & Data Pickle files (optional)
+*.pkl
+
+# Streamlit logs
+.streamlit/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
